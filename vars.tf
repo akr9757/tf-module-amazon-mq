@@ -12,3 +12,4 @@ variable "instance_type" {}
 variable "subnets" {}
 variable "kms_arn" {}
 variable "bastion_cidr" {}
+variable "domain_id" {}
